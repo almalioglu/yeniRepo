@@ -4,5 +4,9 @@ public class Class01 {
         int y = 2;
         System.out.println(x+y);
         System.out.println("Version 1 için işlemler tamam");
+        //Version 2 calismalari...
+        int z = 4;
+        System.out.println(x+y+z);
+
     }
 }
